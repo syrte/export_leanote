@@ -92,5 +92,7 @@ Leanote_Export/
 ## 🧑‍💻 作者
 
 编写与调试：@syrte & ChatGPT
+
 项目基于个人 Leanote 数据导出需求。
+
 如遇问题，可自行向 ChatGPT 咨询。
